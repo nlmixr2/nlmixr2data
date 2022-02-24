@@ -63,6 +63,7 @@ Other nlmixr2 datasets:
 \code{\link{Bolus_1CPT}},
 \code{\link{Bolus_2CPTMM}},
 \code{\link{Bolus_2CPT}},
+\code{\link{Infusion_2CPT}},
 \code{\link{Oral_1CPT}},
 \code{\link{Wang2007}},
 \code{\link{pheno_sd}},

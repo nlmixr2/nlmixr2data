@@ -9,13 +9,13 @@ A data frame with 519 rows and 9 columns
 
 \describe{
 \item{id}{Patient identifier (n=32)}
-\item{time}{Time \link{h}}
-\item{amt}{Total drug administered \link{mg}}
-\item{dv}{Warfarin concentrations \link{mg/L} or PCA measurement}
+\item{time}{Time (h)}
+\item{amt}{Total drug administered (mg)}
+\item{dv}{Warfarin concentrations (mg/L) or PCA measurement}
 \item{dvid}{Dependent identifier Information (cp: Dose or PK, pca: PCA, factor)}
 \item{evid}{Event identifier}
-\item{wt}{Weight \link{kg}}
-\item{age}{Age \link{yr}}
+\item{wt}{Weight (kg)}
+\item{age}{Age (yr)}
 \item{sex}{Gender (male or female, factor)}
 }
 }
@@ -45,6 +45,7 @@ Other nlmixr2 datasets:
 \code{\link{Bolus_2CPTMM}},
 \code{\link{Bolus_2CPT}},
 \code{\link{Infusion_1CPT}},
+\code{\link{Infusion_2CPT}},
 \code{\link{Oral_1CPT}},
 \code{\link{Wang2007}},
 \code{\link{pheno_sd}},
