@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/nlmixr2/nlmixr2data/workflows/R-CMD-check/badge.svg)](https://github.com/nlmixr2/nlmixr2data/actions)
 <!-- badges: end -->
 
 The goal of nlmixr2data is to include all the example dataset from the
