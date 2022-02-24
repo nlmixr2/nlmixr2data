@@ -1,4 +1,4 @@
-##' 1 Compartment Model with Oral Absorption Simulated Data from ACOP 2016
+##' 2 Compartment Model with Oral Absorption Simulated Data from ACOP 2016
 ##'
 ##' This is a simulated dataset from the ACOP 2016 poster.  All
 ##' Datasets were simulated with the following methods.
@@ -33,7 +33,9 @@
 ##'   \item{AMT}{Dosing AMT}
 ##'   \item{EVID}{NONMEM Event ID}
 ##'   \item{DOSE}{Dose}
-##'   \item{V}{Individual Simulated Volume}
+##'   \item{Q}{Individual Inter-compartmental Clearance}
+##'   \item{V1}{Individual Simulated Volume}
+##'   \item{V2}{Individual Simulated Peripheral Volume}
 ##'   \item{CL}{Individual Clearance}
 ##'   \item{KA}{Individual Ka}
 ##'   \item{SS}{Steady State}
@@ -46,4 +48,4 @@
 ##'     nlmixr2: an open-source package for pharmacometric modelling in
 ##'     R. ACOP 2016
 ##' @family nlmixr2 datasets
-"Oral_1CPT"
+"Oral_2CPT"

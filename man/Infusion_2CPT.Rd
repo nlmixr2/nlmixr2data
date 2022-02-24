@@ -3,7 +3,7 @@
 \docType{data}
 \name{Infusion_2CPT}
 \alias{Infusion_2CPT}
-\title{Infusion_2CPT -- 2 Compartment Model with Infusion Simulated Data from ACOP 2016}
+\title{2 Compartment Model with Infusion Simulated Data from ACOP 2016}
 \format{
 A data frame with 7,920 rows and 17 columns
 
@@ -67,7 +67,11 @@ Other nlmixr2 datasets:
 \code{\link{Bolus_2CPT}},
 \code{\link{Infusion_1CPTMM}},
 \code{\link{Infusion_1CPT}},
+\code{\link{Infusion_2CPTMM}},
+\code{\link{Oral_1CPTMM}},
 \code{\link{Oral_1CPT}},
+\code{\link{Oral_2CPTMM}},
+\code{\link{Oral_2CPT}},
 \code{\link{Wang2007}},
 \code{\link{pheno_sd}},
 \code{\link{rats}},

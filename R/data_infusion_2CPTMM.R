@@ -1,4 +1,4 @@
-##' 1 Compartment Model with Oral Absorption Simulated Data from ACOP 2016
+##' 2 Compartment Model w/MM elimination Simulated Data from ACOP 2016
 ##'
 ##' This is a simulated dataset from the ACOP 2016 poster.  All
 ##' Datasets were simulated with the following methods.
@@ -22,7 +22,7 @@
 ##' samples in 24 hours per subject, using a first-order absorption,
 ##' 1-compartment disposition, linear elimination model.
 ##'
-##' @format A data frame with 7,920 rows and 15 columns
+##' @format A data frame with 7,920 rows and 14 columns
 ##'
 ##' \describe{
 ##'   \item{ID}{Simulated Subject ID}
@@ -33,12 +33,13 @@
 ##'   \item{AMT}{Dosing AMT}
 ##'   \item{EVID}{NONMEM Event ID}
 ##'   \item{DOSE}{Dose}
+##'   \item{Q}{Individual Between Compartment Clearance}
 ##'   \item{V}{Individual Simulated Volume}
-##'   \item{CL}{Individual Clearance}
-##'   \item{KA}{Individual Ka}
-##'   \item{SS}{Steady State}
-##'   \item{II}{Interdose Interval}
+##'   \item{V2}{Individual Peripheral Volume}
+##'   \item{KM}{Individual Km constant}
+##'   \item{VM}{Individual Vm constant}
 ##'   \item{SD}{Single Dose Flag}
+##'   \item{RATE}{NONMEM Rate}
 ##'   \item{CMT}{Compartment}
 ##' }
 ##'
@@ -46,4 +47,4 @@
 ##'     nlmixr2: an open-source package for pharmacometric modelling in
 ##'     R. ACOP 2016
 ##' @family nlmixr2 datasets
-"Oral_1CPT"
+"Infusion_2CPTMM"

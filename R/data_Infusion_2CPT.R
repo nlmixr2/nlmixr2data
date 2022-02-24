@@ -1,4 +1,4 @@
-##' Infusion_2CPT -- 2 Compartment Model with Infusion Simulated Data from ACOP 2016
+##' 2 Compartment Model with Infusion Simulated Data from ACOP 2016
 ##'
 ##' This is a simulated dataset from the ACOP 2016 poster.  All
 ##' Datasets were simulated with the following methods.
