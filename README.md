@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/nlmixr2/nlmixr2data/workflows/R-CMD-check/badge.svg)](https://github.com/nlmixr2/nlmixr2data/actions)
+[![CodeFactor](https://www.codefactor.io/repository/github/nlmixr2/nlmixr2data/badge)](https://www.codefactor.io/repository/github/nlmixr2/nlmixr2data)
 <!-- badges: end -->
 
 The goal of nlmixr2data is to include all the example dataset from the
