@@ -72,6 +72,7 @@ Other nlmixr2 datasets:
 \code{\link{Oral_2CPT}},
 \code{\link{Wang2007}},
 \code{\link{mavoglurant}},
+\code{\link{nimoData}},
 \code{\link{pheno_sd}},
 \code{\link{rats}},
 \code{\link{theo_md}},
