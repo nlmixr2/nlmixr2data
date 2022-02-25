@@ -79,7 +79,8 @@ Other nlmixr2 datasets:
 \code{\link{rats}},
 \code{\link{theo_md}},
 \code{\link{theo_sd}},
-\code{\link{warfarin}}
+\code{\link{warfarin}},
+\code{\link{wbcSim}}
 }
 \concept{nlmixr2 datasets}
 \keyword{datasets}
