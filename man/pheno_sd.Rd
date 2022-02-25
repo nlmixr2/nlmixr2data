@@ -62,6 +62,7 @@ Other nlmixr2 datasets:
 \code{\link{Oral_2CPTMM}},
 \code{\link{Oral_2CPT}},
 \code{\link{Wang2007}},
+\code{\link{mavoglurant}},
 \code{\link{rats}},
 \code{\link{theo_md}},
 \code{\link{theo_sd}},
