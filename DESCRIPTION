@@ -1,10 +1,16 @@
 Package: nlmixr2data
-Title: What the Package Does (One Line, Title Case)
-Version: 1.0.0
+Title: Nonlinear Mixed Effects Models in Population PK/PD, Data
+Version: 2.0.6
 Authors@R: c(person("Matthew","Fidler",
       role = c("aut", "cre"), email = "matthew.fidler@gmail.com",
       comment=c(ORCID="0000-0001-8538-6691")))
-Description: What the package does (one paragraph).
+Description: Datasets for 'nlmixr2' and 'rxode2'. 'nlmixr2' is uesd for fitting and comparing
+    nonlinear mixed-effects models in differential
+    equations with flexible dosing information commonly seen in pharmacokinetics
+    and pharmacodynamics (Almquist, Leander, and Jirstrand 2015 
+    <doi:10.1007/s10928-015-9409-1>). Differential equation solving is 
+    by compiled C code provided in the 'rxode2' package
+    (Wang, Hallow, and James 2015 <doi:10.1002/psp4.12052>).
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -12,3 +18,5 @@ RoxygenNote: 7.1.2
 Depends: 
     R (>= 2.10)
 LazyData: true
+BugReports: https://github.com/nlmixr2/nlmixr2data/issues/
+URL: https://nlmixr2.github.io/nlmixr2data/, https://github.com/nlmixr2/nlmixr2data/
