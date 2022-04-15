@@ -20,6 +20,6 @@
 #'   \item{WT}{Weight}
 #'   \item{HT}{Height}
 #' }
-#' @source Wendling et al. 2016m
+#' @source Wendling et al. 2016
 #' @family nlmixr2 datasets
 "mavoglurant"

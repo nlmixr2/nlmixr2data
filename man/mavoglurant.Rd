@@ -24,7 +24,7 @@ A data frame with 2,678 rows by 14 columns
 }
 }
 \source{
-Wendling et al. 2016m
+Wendling et al. 2016
 }
 \usage{
 mavoglurant
