@@ -19,7 +19,7 @@ Authors@R: c(person("Matthew","Fidler",
       person("Wenping", "Wang", 
             role = "aut", email = "wwang8198@gmail.com")
       )
-Description: Datasets for 'nlmixr2' and 'rxode2'. 'nlmixr2' is uesd for fitting and comparing
+Description: Datasets for 'nlmixr2' and 'rxode2'. 'nlmixr2' is used for fitting and comparing
     nonlinear mixed-effects models in differential
     equations with flexible dosing information commonly seen in pharmacokinetics
     and pharmacodynamics (Almquist, Leander, and Jirstrand 2015 
