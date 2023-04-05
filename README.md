@@ -5,16 +5,16 @@
 
 <!-- badges: start -->
 
-[![R-CMD-check](https://github.com/nlmixr2/nlmixr2data/workflows/R-CMD-check/badge.svg)](https://github.com/nlmixr2/nlmixr2data/actions)
+[![R-CMD-check](https://github.com/nlmixr2/nlmixr2data/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/nlmixr2/nlmixr2data/actions/workflows/R-CMD-check.yaml)
 [![CodeFactor](https://www.codefactor.io/repository/github/nlmixr2/nlmixr2data/badge)](https://www.codefactor.io/repository/github/nlmixr2/nlmixr2data)
 <!-- badges: end -->
 
-The goal of nlmixr2data is to include all the example dataset from the
-nlmixr2 project in one place
+The goal of nlmixr2data is to include all the example datasets from the
+nlmixr2 project in one place.
 
 ## Example
 
-This shows the `theo_sd` dataset, the hello world for nlmixr2
+This shows the `theo_sd` dataset, the hello world for nlmixr2.
 
 ``` r
 library(nlmixr2data)
@@ -34,6 +34,6 @@ You can install the development version of nlmixr2data from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("nlmixr2/nlmixr2data")
+# install.packages("remotes")
+remotes::install_github("nlmixr2/nlmixr2data")
 ```
