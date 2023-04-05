@@ -11,7 +11,7 @@
 #'   \item{ID}{Subject ID}
 #'   \item{TIME}{Time (hr)}
 #'   \item{DV}{Dependent Variable, theophylline concentration (mg/L)}
-#'   \item{AMT}{Dose Amount (mg/kg)}
+#'   \item{AMT}{Dose Amount (kg)}
 #'   \item{EVID}{rxode2/nlmixr2 event ID (not NONMEM event IDs)}
 #'   \item{CMT}{Compartment number}
 #'   \item{WT}{Body weight (kg)}

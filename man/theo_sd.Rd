@@ -11,7 +11,7 @@ A data frame with 144 rows by 7 columns
 \item{ID}{Subject ID}
 \item{TIME}{Time (hr)}
 \item{DV}{Dependent Variable, theophylline concentration (mg/L)}
-\item{AMT}{Dose Amount (mg/kg)}
+\item{AMT}{Dose Amount (mg)}
 \item{EVID}{rxode2/nlmixr2 event ID (not NONMEM event IDs)}
 \item{CMT}{Compartment Number}
 \item{WT}{Body weight (kg)}
