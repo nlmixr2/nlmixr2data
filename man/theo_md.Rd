@@ -9,12 +9,12 @@ A data frame with 348 rows by 7 columns
 
 \describe{
 \item{ID}{Subject ID}
-\item{TIME}{Time (hr)}
-\item{DV}{Dependent Variable, theophylline concentration (mg/L)}
-\item{AMT}{Dose Amount (mg/kg)}
-\item{EVID}{rxode2/nlmixr2 event ID (not NONMEM event IDs)}
+\item{TIME}{Time (hrs)}
+\item{DV}{Dependent Variable, theophylline Concentration}
+\item{AMT}{Dose Amount/kg}
+\item{EVID}{rxode2/nlmixr2 event ID (not NONMEM's)}
 \item{CMT}{Compartment number}
-\item{WT}{Body weight (kg)}
+\item{WT}{Weight (kg)}
 }
 }
 \source{
