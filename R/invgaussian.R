@@ -8,5 +8,7 @@
 ##' }
 ##'
 ##'
-##' @source D'Argenio DZ, Schumitzky A, and Wang X (2009). "ADAPT 5 User's Guide: Pharmacokinetic/Pharmacodynamic Systems Analysis Software".
+##' @source Figure 9.7 in D'Argenio DZ, Schumitzky A, and Wang X (2009). "ADAPT
+##'   5 User's Guide: Pharmacokinetic/Pharmacodynamic Systems Analysis
+##'   Software".
 "invgaussian"

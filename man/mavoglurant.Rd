@@ -13,7 +13,7 @@ A data frame with 2,678 rows by 14 columns
 \item{MDV}{Missing DV}
 \item{DV}{Dependent Variable, Mavoglurant}
 \item{AMT}{Dose Amount Keyword}
-\item{TIME}{Time (hrs)}
+\item{TIME}{Time (hr)}
 \item{DOSE}{Dose}
 \item{OCC}{Occasion}
 \item{RATE}{Rate}
@@ -30,7 +30,7 @@ Wendling et al. 2016
 mavoglurant
 }
 \description{
-This was used in a  full PBPK model. This one was published for mavoglurant
+This was used in a full PBPK model. This one was published for mavoglurant
 (Wendling et al. 2016).
 }
 \seealso{

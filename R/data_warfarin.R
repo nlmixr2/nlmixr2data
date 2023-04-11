@@ -11,7 +11,7 @@
 ##'   \item{evid}{Event identifier}
 ##'   \item{wt}{Weight (kg)}
 ##'   \item{age}{Age (yr)}
-##'   \item{sex}{Gender (male or female, factor)}
+##'   \item{sex}{Sex (male or female, factor)}
 ##' }
 ##'
 ##' @source Funaki T, Holford N, Fujita S (2018). Population PKPD

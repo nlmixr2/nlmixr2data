@@ -16,7 +16,7 @@ A data frame with 519 rows and 9 columns
 \item{evid}{Event identifier}
 \item{wt}{Weight (kg)}
 \item{age}{Age (yr)}
-\item{sex}{Gender (male or female, factor)}
+\item{sex}{Sex (male or female, factor)}
 }
 }
 \source{
