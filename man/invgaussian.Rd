@@ -13,7 +13,9 @@ A data frame with 32 rows and 6 columns
 }
 }
 \source{
-D'Argenio DZ, Schumitzky A, and Wang X (2009). "ADAPT 5 User's Guide: Pharmacokinetic/Pharmacodynamic Systems Analysis Software".
+Figure 9.7 in D'Argenio DZ, Schumitzky A, and Wang X (2009). "ADAPT
+5 User's Guide: Pharmacokinetic/Pharmacodynamic Systems Analysis
+Software".
 }
 \usage{
 invgaussian

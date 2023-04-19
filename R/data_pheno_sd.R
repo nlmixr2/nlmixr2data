@@ -11,12 +11,12 @@
 ##'
 ##' \describe{
 ##'   \item{ID}{Infant ID}
-##'   \item{TIME}{ Time of (hr)}
-##'   \item{AMT}{Dose in (ug/kg)}
-##'   \item{WT}{Weight in kg}
+##'   \item{TIME}{Time (hr)}
+##'   \item{AMT}{Dose (ug/kg)}
+##'   \item{WT}{Weight (kg)}
 ##'   \item{APGR}{A 5-minute Apgar score to measure infant health}
 ##'   \item{DV}{The concentration of phenobarbitol in the serum (ug/mL)}
-##'   \item{MDV}{If the dependent variable (DV) is missing;  0 for observations, 1 for doses}
+##'   \item{MDV}{If the dependent variable (DV) is missing; 0 for observations, 1 for doses}
 ##'   \item{EVID}{Event ID}
 ##' }
 ##'
