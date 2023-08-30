@@ -64,6 +64,7 @@ Other nlmixr2 datasets:
 \code{\link{Wang2007}},
 \code{\link{mavoglurant}},
 \code{\link{nimoData}},
+\code{\link{nmtest}},
 \code{\link{rats}},
 \code{\link{theo_md}},
 \code{\link{theo_sd}},
