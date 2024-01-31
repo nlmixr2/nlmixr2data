@@ -1,5 +1,5 @@
 - This only adds Kyle Baron as a contributor.  While he was listed as
-  a contributor to the
+  a contributor in the doc, he needs to be listed in the DESCRIPTION too
 
 ## R CMD check results
 
