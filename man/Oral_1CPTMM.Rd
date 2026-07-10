@@ -57,20 +57,21 @@ samples in 24 hours per subject, using a first-order absorption,
 1-compartment disposition, linear elimination model.
 }
 \seealso{
-Other nlmixr2 datasets: 
-\code{\link{Bolus_1CPTMM}},
+Other nlmixr2 datasets:
 \code{\link{Bolus_1CPT}},
-\code{\link{Bolus_2CPTMM}},
+\code{\link{Bolus_1CPTMM}},
 \code{\link{Bolus_2CPT}},
-\code{\link{Infusion_1CPTMM}},
+\code{\link{Bolus_2CPTMM}},
 \code{\link{Infusion_1CPT}},
-\code{\link{Infusion_2CPTMM}},
+\code{\link{Infusion_1CPTMM}},
 \code{\link{Infusion_2CPT}},
+\code{\link{Infusion_2CPTMM}},
 \code{\link{Oral_1CPT}},
-\code{\link{Oral_2CPTMM}},
 \code{\link{Oral_2CPT}},
+\code{\link{Oral_2CPTMM}},
 \code{\link{Wang2007}},
 \code{\link{mavoglurant}},
+\code{\link{neonatal_wt}},
 \code{\link{nimoData}},
 \code{\link{nmtest}},
 \code{\link{pheno_sd}},
