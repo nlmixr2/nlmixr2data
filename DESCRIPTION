@@ -37,4 +37,4 @@ LazyData: true
 BugReports: https://github.com/nlmixr2/nlmixr2data/issues/
 URL: https://nlmixr2.github.io/nlmixr2data/,
     https://github.com/nlmixr2/nlmixr2data/
-Config/roxygen2/version: 8.0.0
+Config/roxygen2/version: 8.1.0
